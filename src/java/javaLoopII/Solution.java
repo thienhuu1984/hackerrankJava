@@ -1,4 +1,4 @@
-package javaLoopII;
+package java.javaLoopII;
 
 import java.util.*;
 

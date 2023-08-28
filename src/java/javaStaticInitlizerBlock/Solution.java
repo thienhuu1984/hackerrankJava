@@ -1,4 +1,4 @@
-package javaStaticInitlizerBlock;
+package java.javaStaticInitlizerBlock;
 
 import java.util.Scanner;
 

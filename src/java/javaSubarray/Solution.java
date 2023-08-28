@@ -1,4 +1,4 @@
-package javaSubarray;
+package java.javaSubarray;
 
 import java.util.*;
 

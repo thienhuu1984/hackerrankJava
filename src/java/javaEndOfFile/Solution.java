@@ -1,4 +1,4 @@
-package javaEndOfFile;
+package java.javaEndOfFile;
 
 import java.util.Scanner;
 

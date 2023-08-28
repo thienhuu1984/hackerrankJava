@@ -1,4 +1,4 @@
-package java1DArray;
+package java.java1DArray;
 
 import java.util.*;
 

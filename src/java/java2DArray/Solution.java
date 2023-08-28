@@ -1,4 +1,4 @@
-package java2DArray;
+package java.java2DArray;
 
 import java.io.*;
 import java.util.*;

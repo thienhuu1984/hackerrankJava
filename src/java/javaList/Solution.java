@@ -1,4 +1,4 @@
-package javaList;
+package java.javaList;
 
 import java.util.*;
 
